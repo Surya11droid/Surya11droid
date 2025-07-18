@@ -1,16 +1,29 @@
-## Hi there 👋
+# Readme
+<h1 align="center">Hi there 👋, I'm Surya Dutta</h1>
+<h3 align="center">Aspiring Engineer | Passionate about Python, C/C++, AI & Machine Learning</h3>
 
-<!--
-**Surya11droid/Surya11droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+  
+- 🌱 Learning and building projects with **Python, AI, and Machine Learning**
+- 💻 Skilled in **Python, C, C++**
+- 🤖 Interested in **AI, ML, Computer Vision, and Automation**
+- ⚔️ Huge fan of **One Piece** and anime-inspired coding motivation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C, C++
+- **Libraries & Tools:** NumPy, Pandas, Matplotlib, Scikit-Learn, OpenCV  
+- **Others:** Git & GitHub, VS Code
+
+
+### 📫 Connect with Me
+
+- 📧 **suryadutta500@gmail.com** -
+
+---
+
+> “Power isn't determined by your size, but the size of your heart and dreams.” – Monkey D. Luffy 🏴‍☠️
