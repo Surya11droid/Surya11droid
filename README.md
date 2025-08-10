@@ -9,7 +9,6 @@
 - 🌱 Learning and building projects with **Python, AI, and Machine Learning**
 - 💻 Skilled in **Python, C, C++**
 - 🤖 Interested in **AI, ML, Computer Vision, and Automation**
-- ⚔️ Huge fan of **One Piece** and anime-inspired coding motivation
 
 ---
 
