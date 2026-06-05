@@ -25,4 +25,4 @@
 
 ---
 
-> “Power isn't determined by your size, but the size of your heart and dreams.” – Monkey D. Luffy 🏴‍☠️
+> "If you don't take risks, you can't create a future."— Monkey D. Luffy
