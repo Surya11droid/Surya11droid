@@ -51,45 +51,18 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Surya11droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya11droid&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surya11droid&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya11droid&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Surya11droid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Surya11droid&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Surya11droid?tab=repositories)
-
-</div>
-
-<!-- Add your best projects here -->
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com/?user=Surya11droid&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -104,6 +77,14 @@
 </div>
 
 ---
+
+<div align="center">
+
+### 💬 "The best way to predict the future is to build it."
+
+⭐ From [Surya11droid](https://github.com/Surya11droid)
+
+</div>
 
 <div align="center">
 
